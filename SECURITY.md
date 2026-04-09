@@ -2,12 +2,12 @@
 
 ## Supported Versions
 
-The following versions of `@yourname/string-toolkit` are currently receiving security updates:
+The following versions of `@fsd24229/string-toolkit` are currently receiving security updates:
 
-| Version | Supported          |
-|---------|--------------------|
-| 1.x.x   | ✅ Yes             |
-| < 1.0   | ❌ No              |
+| Version | Supported |
+| ------- | --------- |
+| 1.x.x   | ✅ Yes     |
+| < 1.0   | ❌ No      |
 
 ---
 
@@ -17,7 +17,7 @@ If you discover a security vulnerability in this project, **please do not open a
 
 Instead, report it responsibly by emailing:
 
-📧 **your-email@example.com**
+📧 **if24b229@technikum-wien.at**
 
 Please include:
 - A description of the vulnerability

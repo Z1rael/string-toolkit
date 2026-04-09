@@ -35,7 +35,7 @@ labels: bug
 
 ```js
 // Paste a short code snippet that demonstrates the problem
-const { toSnakeCase } = require('@yourname/string-toolkit');
+const { toSnakeCase } = require('@fsd24229/string-toolkit');
 
 console.log(toSnakeCase('some input')); // unexpected output
 ```
@@ -44,11 +44,11 @@ console.log(toSnakeCase('some input')); // unexpected output
 
 ## Environment
 
-| Field | Value |
-|-------|-------|
-| Package version | e.g. `1.0.0` |
-| Node.js version | e.g. `20.11.0` |
-| OS | e.g. macOS 14, Windows 11, Ubuntu 22.04 |
+| Field           | Value                                   |
+| --------------- | --------------------------------------- |
+| Package version | e.g. `1.0.0`                            |
+| Node.js version | e.g. `20.11.0`                          |
+| OS              | e.g. macOS 14, Windows 11, Ubuntu 22.04 |
 
 ---
 
