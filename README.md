@@ -2,6 +2,15 @@
 
 ## Table of Contents
 
+- [@fsd24229/string-toolkit](#fsd24229string-toolkit)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Examples](#examples)
+  - [Contribution](#contribution)
+  - [Security](#security)
+  - [License](#license)
+
 ## Installation
 
 Install via npm:
@@ -21,12 +30,14 @@ yarn add @fsd24229/string-toolkit
 Basic Usage
 
 ```js
-import toSnakeCase from '@fsd24229/string-toolkit';
+import {toSnakeCase, toKebabCase} from '@fsd24229/string-toolkit';
 
 const testString = 'Hello World';
 let snakeCase = toSnakeCase(testString);
+let kebabCase = toKebabCase(testString);
 
 console.log(snakeCase);
+console.log(kebabCase);
 ```
 
 ## Examples
