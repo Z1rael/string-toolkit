@@ -1,6 +1,6 @@
 {
   "name": "@fsd24229/string-toolkit",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "a small little library providing useful string manipulation functions",
   "main": "index.js",
   "scripts": {
