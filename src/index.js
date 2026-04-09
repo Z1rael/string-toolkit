@@ -1,5 +1,5 @@
 
-export function toSnakeCase(str) {
+function toSnakeCase(str) {
     if (!str) {
         throw new Error("Empty string given");
     }
@@ -15,3 +15,4 @@ export function toSnakeCase(str) {
     return newString;
 }
 
+module.exports = { toSnakeCase };
