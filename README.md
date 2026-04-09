@@ -21,7 +21,12 @@ yarn add @fsd24229/string-toolkit
 Basic Usage
 
 ```js
+import toSnakeCase from '@fsd24229/string-toolkit';
 
+const testString = 'Hello World';
+let snakeCase = toSnakeCase(testString);
+
+console.log(snakeCase);
 ```
 
 ## Examples
