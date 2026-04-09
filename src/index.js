@@ -41,4 +41,4 @@ function toKebabCase(str) {
     return newString;
 }
 
-module.exports = { toSnakeCase };
+module.exports = { toSnakeCase, toKebabCase };
