@@ -13,5 +13,8 @@
     "kebab-case"
   ],
   "author": "Felix Dilly",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
 }
